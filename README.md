@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá Curioso 👀👋
+
+Faz pouco tempo que estou populando o Git com meus projetos particulares....
+Conforme meus estudos avançam, vou adicionando para compartilhar com vocês.
+
+Minha ideia é manter meus projetos em Python, Java e PHP atualizados.
+
+Até 😊
 
 <!--
 **guitrein/guitrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
